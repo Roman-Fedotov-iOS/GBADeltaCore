@@ -19,7 +19,7 @@ let package = Package(
 //        )
     ],
     dependencies: [
-        .package(name: "DeltaCore", url: "https://github.com/rileytestut/DeltaCore.git", .branch("playgrounds4")),
+        .package(name: "DeltaCore", url: "https://github.com/Roman-Fedotov-iOS/DeltaCore.git", .branch("playgrounds4")),
     ],
     targets: [
         .target(
